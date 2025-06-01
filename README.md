@@ -15,7 +15,7 @@ Algoritma Greedy yang digunakan pada bot ini :
 4. **Greedy by Return (Inventori Penuh):** Mengamankan poin dengan segera kembali ke base saat inventori diamond penuh.
 5. **Greedy by Return (Inventori Hampir Penuh):** Efisien dalam melengkapi set diamond (mencari biru) atau kembali ke base jika inventori hampir penuh.
 6. **Greedy by Red Button:** Mengatasi kelangkaan diamond dengan mengaktifkan generator diamond.
-7. **Greedy by Diamond (Densitas Terbaik):** Efisien dalam pengumpulan diamond dengan memprioritaskan yang paling menguntungkan (nilai/jarak) dan yang terdekat dari base.
+7. **Greedy by Density (Densitas Terbaik):** Efisien dalam pengumpulan diamond dengan memprioritaskan yang paling menguntungkan (nilai/jarak) dan yang terdekat dari base.
 8. **Greedy by Exploration (Unvisited Cells):** Strategi fallback untuk menjelajahi peta dan menemukan sumber daya baru secara efisien dalam jangka panjang.
 
 ## Penggunaan Program
